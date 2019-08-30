@@ -188,8 +188,8 @@ constexpr auto ApiHash = TDESKTOP_API_HASH_TO_STRING(TDESKTOP_API_HASH);
 
 #error You are required to provide API_ID and API_HASH.
 
-constexpr auto ApiId = 17349;
-constexpr auto ApiHash = "344583e45741c457fe1862106095a5eb";
+constexpr auto ApiId = 888834;
+constexpr auto ApiHash = "8ef4edaac0028869231d42a522b4d907";
 
 #endif // TDESKTOP_API_ID && TDESKTOP_API_HASH
 
